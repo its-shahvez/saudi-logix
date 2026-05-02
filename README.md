@@ -66,7 +66,7 @@ Runs on http://localhost:5173
 Note: Make sure MySQL is running and database is configured in application.properties.
 
 📸 Screenshots-
-https://github.com/user-attachments/assets/75f51c82-535b-437a-aa3a-252582a499a3
+![dashboard](https://github.com/user-attachments/assets/75f51c82-535b-437a-aa3a-252582a499a3)
 <img width="1895" height="867" alt="saudilogx8" src="https://github.com/user-attachments/assets/8588a16a-d1b0-4ad2-9c80-3982514214ce" />
 <img width="1912" height="865" alt="saudilogix7" src="https://github.com/user-attachments/assets/3ccda867-a134-4f19-bce6-4a0dd6bd2ddb" />
 <img width="1903" height="866" alt="saudilogix6" src="https://github.com/user-attachments/assets/057ba4cf-85d5-46b4-8aa9-60e1d18050dc" />
