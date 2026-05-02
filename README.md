@@ -66,14 +66,14 @@ Runs on http://localhost:5173
 Note: Make sure MySQL is running and database is configured in application.properties.
 
 📸 Screenshots-
-<img width="1902" height="866" alt="saudilogix1" src="https://github.com/user-attachments/assets/f382014d-23c2-4f10-9a04-9d5955d3a1b1" />
-<img width="1901" height="865" alt="saudilogix2" src="https://github.com/user-attachments/assets/38ca8dc7-2b7f-495a-996a-510f7a311ea6" />
-<img width="1917" height="871" alt="saudilogix3" src="https://github.com/user-attachments/assets/7a847629-7bb7-470b-b762-a893a9ff92aa" />
-<img width="1892" height="866" alt="saudilogix4" src="https://github.com/user-attachments/assets/c3b1573e-849e-4a26-9207-8f800a1b415c" />
-<img width="1893" height="865" alt="saudilogix5" src="https://github.com/user-attachments/assets/7224a395-a49b-4cf4-a118-92510f65a733" />
-<img width="1903" height="866" alt="saudilogix6" src="https://github.com/user-attachments/assets/09396650-600a-401f-922f-98cf741698f5" />
-<img width="1912" height="865" alt="saudilogix7" src="https://github.com/user-attachments/assets/b21239c5-d272-40cd-9de5-86fb6a937b84" />
-<img width="1895" height="867" alt="saudilogx8" src="https://github.com/user-attachments/assets/50d68cbe-703f-4f55-8735-de9cf97dfb94" />
+<img width="1895" height="867" alt="saudilogx8" src="https://github.com/user-attachments/assets/8588a16a-d1b0-4ad2-9c80-3982514214ce" />
+<img width="1912" height="865" alt="saudilogix7" src="https://github.com/user-attachments/assets/3ccda867-a134-4f19-bce6-4a0dd6bd2ddb" />
+<img width="1903" height="866" alt="saudilogix6" src="https://github.com/user-attachments/assets/057ba4cf-85d5-46b4-8aa9-60e1d18050dc" />
+<img width="1893" height="865" alt="saudilogix5" src="https://github.com/user-attachments/assets/50b76fb9-4795-49a4-84ac-e4eb5b60b3e2" />
+<img width="1892" height="866" alt="saudilogix4" src="https://github.com/user-attachments/assets/27f3d9a1-562d-4f8f-a7e5-bc3710cf4cbf" />
+<img width="1917" height="871" alt="saudilogix3" src="https://github.com/user-attachments/assets/5c2d0ca9-af34-4f44-8737-7dc96ec4b13b" />
+<img width="1901" height="865" alt="saudilogix2" src="https://github.com/user-attachments/assets/455a0c1f-7ce5-4177-a841-d2a07eb1c7c8" />
+<img width="1902" height="866" alt="saudilogix1" src="https://github.com/user-attachments/assets/75f51c82-535b-437a-aa3a-252582a499a3" />
 
 👨‍💼 Author
 
