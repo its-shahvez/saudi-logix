@@ -66,7 +66,7 @@ Runs on http://localhost:5173
 Note: Make sure MySQL is running and database is configured in application.properties.
 
 📸 Screenshots-
-![dashboard](https://github.com/user-attachments/assets/75f51c82-535b-437a-aa3a-252582a499a3)
+![dashboard]([https://github.com/user-attachments/assets/75f51c82-535b-437a-aa3a-252582a499a3](https://github-production-user-asset-6210df.s3.amazonaws.com/151781104/586777555-75f51c82-535b-437a-aa3a-252582a499a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260502%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260502T201319Z&X-Amz-Expires=300&X-Amz-Signature=f54a6edb29949fb4099c01d5e4ce701cb77a1a2537becc23e00d3afcb415c661&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng))
 <img width="1895" height="867" alt="saudilogx8" src="https://github.com/user-attachments/assets/8588a16a-d1b0-4ad2-9c80-3982514214ce" />
 <img width="1912" height="865" alt="saudilogix7" src="https://github.com/user-attachments/assets/3ccda867-a134-4f19-bce6-4a0dd6bd2ddb" />
 <img width="1903" height="866" alt="saudilogix6" src="https://github.com/user-attachments/assets/057ba4cf-85d5-46b4-8aa9-60e1d18050dc" />
